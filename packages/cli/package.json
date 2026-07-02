@@ -83,7 +83,7 @@
     "commander": "^15.0.0",
     "eslint": "^10.5.0",
     "fs-extra": "^11.3.5",
-    "prettier": "^3.8.4",
+    "prettier": "^3.9.4",
     "tsx": "^4.22.4",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.62.0",
