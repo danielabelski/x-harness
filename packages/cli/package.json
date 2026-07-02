@@ -78,7 +78,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^26.0.1",
+    "@types/node": "^26.1.0",
     "ajv": "^8.20.0",
     "commander": "^15.0.0",
     "eslint": "^10.5.0",
